@@ -26,6 +26,8 @@ package org.transitime.foo;
 public class Foo {
 
 	/**
+	 * Changed!
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
